@@ -6,6 +6,8 @@ the ecommerce website allows users to:
 2.contect to company
 Features
 only simple web page created using HTML.
+LINK:
+https://68a61809de028836eb265bfc--lovely-vacherin-d7e1f3.netlify.app/
 Technologies Used
 HTML
 CONTECT
